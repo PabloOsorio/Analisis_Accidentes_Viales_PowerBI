@@ -13,7 +13,7 @@ No esta el link del dataset original pero buscando en internet encontre la sigui
 
 ## Dashboard
 Aquí puedes agregar imágenes de tu dashboard.  
-(Imagenes\dashboard_1.png)
+([Imagenes\dashboard_1.png](https://github.com/PabloOsorio/Analisis_Accidentes_Viales_PowerBI/tree/main/Imagenes))
 
 ## Insights 
 
