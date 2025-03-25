@@ -1,4 +1,4 @@
-# Proyecto de Power BI - [Accidentes ]
+# Proyecto de Power BI - [Accidentes viales de Estados Unidos 2022]
 
 ## Descripción
 Este es mi primer proyecto utilizando Power BI basado en el curso "Power BI sin complicaciones de A2 Capacitación: Excel" y el dataset proporcionado por la Administración Nacional de Seguridad en el Tráfico en las Carreteras (NHTSA). El conjunto de datos cubre todos los accidentes viales ocurridos en Estados Unidos durante el año 2022, incluyendo información sobre las personas involucradas, las ubicaciones de los accidentes y los tipos de lesiones (incluyendo decesos).
@@ -12,12 +12,12 @@ El principal objetivo de este proyecto es explorar y analizar los datos para obt
 No esta el link del dataset original pero buscando en internet encontre la siguiente liga y parece es el dataset en su version en ingles https://catalog.data.gov/dataset/fatality-analysis-reporting-system-fars-2022-accidents1 
 
 ## Dashboard
-Aquí puedes agregar imágenes de tu dashboard.  
+Aquí hay imagenes de los dashboards finales.
 ([Imagenes\dashboard_1.png](https://github.com/PabloOsorio/Analisis_Accidentes_Viales_PowerBI/tree/main/Imagenes))
 
 ## Insights 
 
-1. Insight 1: Dashboard_1 - En este primer dashboard se presentan los resultados del análisis exploratorio inicial, destacando métricas clave como el número total de decesos, el total de accidentes y el promedio de bajas por accidente. Estos indicadores proporcionan una visión general de la gravedad de los accidentes viales en los Estados Unidos durante el año 2022.
+### Dashboard_1 - En este primer dashboard se presentan los resultados del análisis exploratorio inicial, destacando métricas clave como el número total de decesos, el total de accidentes y el promedio de bajas por accidente. Estos indicadores proporcionan una visión general de la gravedad de los accidentes viales en los Estados Unidos durante el año 2022.
 
 Algunos hallazgos relevantes incluyen:
 
@@ -31,7 +31,7 @@ En cuanto a posibles explicaciones, el promedio de decesos por accidente podría
 
 
 
-2. Insight 2: Dashboard_2 - Este segundo dashboard analiza aspectos relacionados con el tipo de población involucrada en accidentes viales, los decesos según el tipo de vialidad y las principales causas de los accidentes.
+### Dashboard_2 - Este segundo dashboard analiza aspectos relacionados con el tipo de población involucrada en accidentes viales, los decesos según el tipo de vialidad y las principales causas de los accidentes.
 
 1. Tipo de Población:
 Los datos revelan que las zonas urbanas registran la mayor cantidad de accidentes viales. Este fenómeno podría atribuirse al ritmo de vida más acelerado(frenetico) y a la mayor concentración de vehículos en espacios reducidos, lo que incrementa la probabilidad de colisiones.
@@ -44,7 +44,7 @@ En cuanto a las causas, los accidentes son diversos, pero predominan aquellos or
 
 
 
-3. Insight 3: Dashboard_3 _ Este último dashboard proporciona un análisis sobre las marcas automotrices con mayor cantidad de decesos, el género más afectado en accidentes viales, y una evaluación de los estados con más decesos por cada 100,000 habitantes. Además incluye un mapa de calor de los Estados Unidos que visualiza la concentración geográfica de los accidentes.
+### Dashboard_3 _ Este último dashboard proporciona un análisis sobre las marcas automotrices con mayor cantidad de decesos, el género más afectado en accidentes viales, y una evaluación de los estados con más decesos por cada 100,000 habitantes. Además incluye un mapa de calor de los Estados Unidos que visualiza la concentración geográfica de los accidentes.
 
 1. Marcas Automotrices:
 Es importante destacar que la presencia de ciertas marcas en los datos no implica necesariamente que se trate de vehículos inseguros. La alta incidencia podría estar relacionada con la popularidad y la cantidad de vehículos en circulación de dichas marcas.
